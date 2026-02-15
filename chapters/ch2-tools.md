@@ -47,6 +47,8 @@ Poker Trading 的看盘方式有两种：
 
 ![TradingView双屏布局：左图4H背景桌（周VP，Table+Radar），右图30分钟执行桌（日VP，Table+Radar）](../images/ch1-dual-screen.png)
 
+![TradingView三屏布局：左图4H偏见桌（周VP，Table+Radar），中图30分钟背景桌（日VP，Table+Radar），右图5分钟执行桌（分时段VP，Table+Radar）](../images/ch1-triple-screen.png)
+
 ### 时段VP
 
 除了日、周、月这些标准周期，Poker Table还支持按交易时段划分——比如东京时段、伦敦时段、纽约时段，每个时段各生成一张独立的VP。时段VP在日内交易中特别有用，本质上就是把一天切成几张小桌，每张桌有自己的VA和关键位。读法和标准VP完全一样，只是时间窗口更短。

@@ -1,6 +1,6 @@
-# Poker Trading Handbook · v4.0.7.2
+# Poker Trading Handbook · v4.0.7.3
 
-编译时间：2026-02-15 03:22 UTC
+编译时间：2026-02-15 03:25 UTC
 
 ---
 
@@ -485,6 +485,8 @@ Poker Trading 的看盘方式有两种：
 做决策永远看执行桌。背景桌主要提供共振参考。初学阶段用双屏就够了——等对AC/RE有了实盘直觉后再加偏见桌升级为三屏。完整配置见game-setup，布局用法在第三章展开。
 
 ![TradingView双屏布局：左图4H背景桌（周VP，Table+Radar），右图30分钟执行桌（日VP，Table+Radar）](images/ch1-dual-screen.png)
+
+![TradingView三屏布局：左图4H偏见桌（周VP，Table+Radar），中图30分钟背景桌（日VP，Table+Radar），右图5分钟执行桌（分时段VP，Table+Radar）](images/ch1-triple-screen.png)
 
 ### 时段VP
 
