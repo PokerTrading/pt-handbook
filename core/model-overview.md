@@ -48,8 +48,8 @@ Ch8 风控 · 情绪 · 长期生存
 
 ## 边缘交易原则
 只因边界事件开仓——发牌必须来自8个一级边界，入场价位在甜点位上。VA内部的信号一律当噪音忽略。
-一级边界：Radar识别 PH / PL（只RE）/ VAH / VAL / IBH / IBL（AC和RE）共6个 + Table识别 Excess High / Excess Low 共2个。
-发牌两种识别方式（同级并列）：Radar在K线级别实时捕捉AC/RE事件，Table在VP级别识别Excess结构演化。PH/PL和Excess都出现在周期高低点区域，共同存在时以Excess为准。Excess验牌跳过评分判断，从响应速度开始。
+一级边界（全部由Table画出）：Radar在 PH / PL（只RE）/ VAH / VAL / IBH / IBL（AC和RE）共6个边界上捕捉K线级AC/RE事件 + Table在VP级别识别 Excess High / Excess Low 共2个结构边界。
+发牌两种检测方式（同级并列）：Radar在K线级别实时捕捉AC/RE事件，Table在VP级别识别Excess结构演化。PH/PL和Excess都出现在周期高低点区域，共同存在时以Excess为准。Excess验牌跳过评分判断，从响应速度开始。
 POC不是发牌位——它是磁铁/路况参考，在以下场景有辅助价值：
 - 验牌能量：边界信号后POC处的同向AC可作验牌证据
 - 共振加分：执行桌边界与偏见桌/背景桌关键位（含POC）重合时提升牌力

@@ -10,7 +10,7 @@
 
 你的牌桌上有8个一级边界，按识别工具分两组：
 
-**Radar识别（6个）——K线级别实时事件：** 价格触及PH、PL、VAH、VAL、IBH、IBL时，Radar自动识别接受（AC）或拒绝（RE），标记为uAC、dAC、uRE、dRE中的一种。边界上出事了，你就拿到了一手牌。PH/PL只发RE牌（拒绝），VAH/VAL/IBH/IBL发AC和RE两种牌。
+**Radar捕捉信号（6个）——K线级别实时事件：** 价格触及Table画出的PH、PL、VAH、VAL、IBH、IBL时，Radar自动捕捉接受（AC）或拒绝（RE），标记为uAC、dAC、uRE、dRE中的一种。边界上出事了，你就拿到了一手牌。PH/PL只发RE牌（拒绝），VAH/VAL/IBH/IBL发AC和RE两种牌。
 
 **Table识别（2个）——VP级别结构演化：** Poker Table在VP的高低点区域识别Excess High和Excess Low。Excess不是某一刻"发生"的，是VP在一段时间内累积成交量逐渐"长出来"的尖锐尾部。Excess成型=拍卖在那个方向的探索已被结构性拒绝=发牌。
 
@@ -173,7 +173,7 @@ AC突破后站不住、价格回到关键位内侧 = 假突破。突破失败意
 
 > **本章要点速记**
 >
-> 发牌 = 8个一级边界：Radar识别 PH/PL（只RE）+ VAH/VAL/IBH/IBL（AC和RE）+ Table识别 Excess High/Low（VP结构演化）· VA内=噪音 · POC=辅助
+> 发牌 = 8个一级边界（全部由Table画出）：Radar捕捉 PH/PL（只RE）+ VAH/VAL/IBH/IBL（AC和RE）+ Table识别 Excess High/Low（VP结构演化）· VA内=噪音 · POC=辅助
 >
 > Radar和Excess共同存在以Excess为准 · Excess验牌跳过①评分从②速度开始
 >

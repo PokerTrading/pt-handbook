@@ -135,7 +135,7 @@
 
 ```
 □ Ch4 发牌：8个一级边界出事了？（VA内=噪音→跳过）
-  □ 识别来源：Radar识别6个边界（AC/RE）+ Table识别2个边界（Excess High/Low）· 共同存在以Excess为准
+  □ 识别来源：Table画出全部8个边界 · Radar在6个边界上捕捉AC/RE + Table识别2个Excess · 共同存在以Excess为准
   □ Radar验牌优先级：A档(7+)立刻验 · B档(4-6)观察 · C档(<4)跳过
   □ Excess验牌：跳过评分，从②速度开始
   □ 验牌通过？（①方向→②速度→③停留/④能量）

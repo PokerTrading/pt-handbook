@@ -27,8 +27,8 @@
 | 最终牌力 (Final Hand Strength) | 降级后的实际牌力 | 原始牌力 - 降级（桌风分歧/纹理/不确定）= 实际执行等级 |
 | 数学SL (Math Stop Loss) | 盈亏比反推的止损 | 无结构保护，纯数学位置。仅限AA/KK+Radar 7+；仓位降一级；R:R+0.5。AK/AQ不允许 |
 | 降级 (Downgrade) | 牌力下调 | 来源：桌风分歧/不确定/湿润纹理→各降一级；极端湿润→弃牌。不叠加取最严，多来源→仓位减半 |
-| 边缘交易 (Edge Trading) | 只在一级边界发牌 | VA内部信号=噪音；一级边界=Radar识别6个+Table识别2个（Excess） |
-| 一级边界 (Primary Edge) | VP结构的发牌位（共8个） | Radar识别：PH/PL/VAH/VAL/IBH/IBL（6个）+ Table识别：Excess High/Low（2个）|
+| 边缘交易 (Edge Trading) | 只在一级边界发牌 | VA内部信号=噪音；8个一级边界全由Table画出，Radar捕6个AC/RE+Table识别2个Excess |
+| 一级边界 (Primary Edge) | VP结构的发牌位（共8个，全由Table画出） | Radar捕捉AC/RE：PH/PL/VAH/VAL/IBH/IBL（6个）+ Table识别结构：Excess High/Low（2个）|
 | 甜点位 (Sweet Spot) | 最佳入场价位 | RE=①结构锚点>②信号K线开盘价>③斐波那契。AC=①突破位回踩>②POC翻转位>③斐波那契。三层都够不到=不入场 |
 | 安全组 (Safety Group) | TP1减仓部分 | 默认40%仓位。TP1达成→平仓锁利 |
 | 价值组 (Value Group) | 行情主体部分 | 默认40%仓位。TP1后SL移入场价，TP2达成→平仓 |
@@ -53,7 +53,7 @@
 | IB | Initial Balance | 初始平衡区 |
 | IBH | IB High | IB上边界 |
 | IBL | IB Low | IB下边界 |
-| Excess | 极值 | VP尾部放量拒绝。8个一级边界之一（Table识别），与Radar识别的PH/PL并列 |
+| Excess | 极值 | VP尾部放量拒绝。8个一级边界之一（Table识别），与Table画出、Radar捕信号的PH/PL并列 |
 | Excess High | 上方极值 | 顶部放量拒绝（看空信号） |
 | Excess Low | 下方极值 | 底部放量拒绝（看多信号） |
 | 双Excess | 方向穷尽 | 同一区域两次Excess且第二次更弱。牌力AA起步（顺势有共振） |
