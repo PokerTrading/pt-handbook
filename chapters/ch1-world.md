@@ -145,7 +145,7 @@ Excess和PH/PL都出现在周期的高低点区域，但检测方式完全不同
 
 直觉理解：**Excess像一扇砰地关上的门**——价格碰了一下就弹走了，没人愿意在那个价格交易，边界非常牢固。**Poor像一扇虚掩的门**——很多人在门口挤来挤去，说明大家对"要不要进去"还有分歧，边界不牢固，价格可能回来再推一次。
 
-![第三组：黄金现货30分钟图，Table识别Excess High（顶部VP尾部尖锐，红色虚线标注）和Excess Low（底部VP尾部尖锐），以及Poor High（左侧第一天顶部肥厚尾部）。对比可见Excess=门关了、Poor=门没关](../images/ch1-group3-excess.png)
+![第三组：黄金现货30分钟图，Poker Table + Poker Radar同时开启。Table标记Excess High（顶部VP尾部尖锐）、Excess Low（底部VP尾部尖锐）、Poor High（左侧第一天肥厚尾部）。Radar信号标签同时可见（如dRE 7.5 [PL]✓、uRE 5.5 [VAH]✓），展示Table画线+识别Excess、Radar在线上捕信号的两层分工](../images/ch1-group3-excess.png)
 
 > ✅ **检查点：** Excess High/Low由Table在VP级别识别，和Table画出、Radar捕信号的PH/PL是不同机制观察同一片战场。Excess=门关了（一级边界，发牌），Poor=门没关（不发牌）。
 
