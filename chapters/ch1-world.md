@@ -304,7 +304,9 @@ POC不是入场触发位——你不会因为"价格到了POC"而开仓。但POC
 
 布局关系随你坐的执行桌变化。如果你坐在日内桌上，本周的周VP就是你的背景桌；如果你坐在短线桌上，本月的月VP是你的背景桌。完整配置见game-setup，布局用法在第三章展开。
 
-![双屏布局示例：左图4H偏见桌（周VP，Table+Radar，Poker Flow 26.930），右图30分钟执行桌（日VP，Table+Radar，Poker Flow 13.897）。两张图同时显示VP结构+Radar信号标签+状态栏，偏见桌看大方向、执行桌找入场点](../images/ch1-dual-screen.png)
+![双屏布局：左图4H背景桌（周VP，Table+Radar，Poker Flow 26.930），右图30分钟执行桌（日VP，Table+Radar，Poker Flow 13.897）。背景桌提供共振参考、执行桌找入场点](../images/ch1-dual-screen.png)
+
+![三屏布局：左图4H偏见桌（周VP，Table+Radar），中图30分钟背景桌（日VP，Table+Radar），右图5分钟执行桌（分时段VP，Table+Radar，Poker Flow 15.432）。偏见桌定方向→背景桌看共振→执行桌找入场](../images/ch1-triple-screen.png)
 
 ---
 
