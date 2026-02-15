@@ -1,6 +1,6 @@
-# Poker Trading Handbook · v4.0.7.6
+# Poker Trading Handbook · v4.0.7.7
 
-编译时间：2026-02-15 04:40 UTC
+编译时间：2026-02-15 05:21 UTC
 
 ---
 
@@ -1159,13 +1159,15 @@ AC突破后站不住、价格回到关键位内侧 = 假突破。突破失败意
 
 **AC通过（评分高）：** uAC突破IBH，Radar 7.5。①评分7+=力度大 → ✅ 直接通过。（评分不到7+时：后续站稳在IBH上方 = ③通过，或VAH出现新uAC = ④能量通过。）
 
-![RE验牌——响应速度通过：BTC 4H图，①多头桌风，②dRE出现在VAL，③连续多根K线快速反弹——价格被拒绝后迅速远离边界，验牌通过](images/ch4-re-verify.png)
+![RE验牌——高评分直接通过：BTC 15min图，①多头桌风，②uRE 8.3 >7分应该立刻验牌，③同向dAC 6.2出现验牌通过——高评分RE信号果断行动](images/ch4-re-verify.png)
 
-![RE验牌——能量通过：BTC 4H图，①多头桌风，②dRE出现在IB下方，③同向uAC（能量）出现——后续边界上出现同方向AC信号，能量确认验牌通过](images/ch4-ac-verify.png)
+![RE验牌——耐心观察后响应速度通过：BTC 15min图，①多头桌风，②dRE 5.3耐心观察（评分不到7），③价格快速反弹收回VA内部验牌通过——中低评分需要等确认](images/ch4-re-patience.png)
 
-![AC验牌——高评分突破后价格快速弹回：BTC 4H图，①空头桌风，②7.3分dAC出现，③价格快速弹回去了——突破失败，AC验牌不通过，变成诈唬牌](images/ch4-ac-energy.png)
+![RE验牌——能量通过：BTC 15min图，①空头桌风，②dRe 5.6耐心观察，③价格没有快速反弹但同向uAC 5.6（能量）出现验牌通过——能量确认替代响应速度](images/ch4-re-energy.png)
 
-![AC验牌——能量通过：BTC 4H图，①多头桌风，②dRE出现在IB下方，③同向uAC（能量）出现——后续出现同方向AC推进，能量确认突破有效](images/ch4-re-energy.png)
+![AC验牌——站稳通过：BTC 15min图，①空头桌风，②价格uAC 5.3创了新高思维要从空头转多头，③价格持续站稳验牌通过——突破后不回头就是真突破](images/ch4-ac-verify.png)
+
+![Excess验牌：BTC 15min图，①多头桌风，②没有uRE信号但Excess High同样是边界发牌（Table识别），③价格快速跌破验牌通过——Excess无Radar评分，直接从响应速度开始验牌](images/ch4-excess-verify.png)
 
 ---
 
