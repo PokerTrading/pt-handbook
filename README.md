@@ -22,7 +22,7 @@ Poker Trading 是一套基于 Volume Profile + 拍卖市场理论的完整交易
 | 第六章 | 算笔账 · 甜点位+SL+TP+R:R | [ch6](chapters/ch6-math.md) |
 | 第七章 | 怎么打 · 仓位+入场+四街管理 | [ch7](chapters/ch7-play.md) |
 | 第八章 | 活下来 · 风控+熔断+心态 | [ch8](chapters/ch8-survive.md) |
-| 第九章 | 你的第一手牌 · 五大实战案例 | [ch9](chapters/ch9-walkthrough.md) |
+| 第九章 | 你的第一手牌 · 四大实战案例 | [ch9](chapters/ch9-walkthrough.md) |
 | 进阶 | 极简牌谱 | [ch10](chapters/ch10-minimal.md) |
 
 **核心参考文档：**
@@ -39,7 +39,7 @@ Poker Trading 是一套基于 Volume Profile + 拍卖市场理论的完整交易
 | 桌风 | 趋势方向（Flow颜色 + VA迁移） |
 | 发牌 | 边界信号（AC突破 / RE拒绝 / Excess） |
 | 牌力 | 信号质量（AA/KK/AK/AQ） |
-| 下注 | 入场（前置/分街） |
+| 下注 | 入场（计划手数一次建仓） |
 | 三组 | 仓位管理（安全组/价值组/贪婪组） |
 | 止损 | SL（结构止损 / 数学止损） |
 
